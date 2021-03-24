@@ -1,0 +1,11 @@
+{
+  "name": "farmers-market",
+  "version": "1.0.0",
+  "description": "Farmer's Market Register",
+  "main": "farmersMarket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liam Peng",
+  "license": "ISC"
+}
